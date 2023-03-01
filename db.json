@@ -25,8 +25,8 @@
             "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
         }
     ],
-    
-     "usuarios": [
+
+    "usuarios": [
         {
             "nome": "1º Civel",
             "email": "1civelteste@gmail.com"
@@ -155,7 +155,8 @@
             "sala": "Sala 10"
         }
     ],
-    "scope": "https://www.googleapis.com/auth/calendar.readonly",
-    "discoveryDocs": "https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest",
-    "apiKey": "AIzaSyBQLBw71zHs2WEwyepFCOmr7zhdrw9qTBU"
+
+    "scopes": ["https://www.googleapis.com/auth/calendar.readonly"],
+    "discoveryDocs": ["https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"],
+    "apiKey": ["AIzaSyBQLBw71zHs2WEwyepFCOmr7zhdrw9qTBU"]
 }
