@@ -154,9 +154,5 @@
             "id": "a274e309e5e39378fe9fabe9f4091663450d6891097016808126be5686c9d248@group.calendar.google.com",
             "sala": "Sala 10"
         }
-    ],
-
-    "discovery_doc": "https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest",
-
-    "scopes": "https://www.googleapis.com/auth/calendar.readonly"
+    ]
 }
